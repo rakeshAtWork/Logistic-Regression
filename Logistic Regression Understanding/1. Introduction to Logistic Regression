@@ -1,2 +1,10 @@
 This is the Notes and Code for the Logistic Regression.
 
+Here, we have just learned about the Logistic Regression and Cost function:
+
+  Logistic regression is made up of Simple Regression and Sigmoid function that is the
+  main reason we called this as Logistic Regression.
+
+L2 Regularisation is used to reduce the Overfitting.
+
+
