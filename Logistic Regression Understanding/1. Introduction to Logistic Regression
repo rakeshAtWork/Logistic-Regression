@@ -7,4 +7,24 @@ Here, we have just learned about the Logistic Regression and Cost function:
 
 L2 Regularisation is used to reduce the Overfitting.
 
+We are learning something in the Logistic Regression.
+
+
+Checking the Accuracy of the Model.
+
+DATASET : Imbalanced DATASET.
+
+in case of imbalanced DATASET we have to use different technique thatis precision.
+
+TP/TP+FP
+
+Out of actual values how many are correctly predicted.
+
+We are considering the Recall, 
+
+
+Confusion Matriz makesometime the blunder.
+-- 
+
+
 
